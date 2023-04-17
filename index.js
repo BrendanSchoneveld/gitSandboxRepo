@@ -1,3 +1,7 @@
 const myFirstFunction = () => {
-    
+
+}
+
+const mySecondFunction = () => {
+
 }
